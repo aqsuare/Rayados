@@ -1,3 +1,0 @@
-Run gpedit.msc and navigate to Computer Configuration > Administrative Templates > Windows Components > News and interests
- -Double click on the 'Enable news and interests on the taskbar' policy to edit it.
-	Select Disabled. Click Apply and then OK
