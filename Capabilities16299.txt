@@ -1,2 +1,0 @@
-App.Support.ContactSupport~~~~0.0.1.0
-App.Support.QuickAssist~~~~0.0.1.0
