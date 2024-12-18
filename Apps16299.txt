@@ -1,0 +1,16 @@
+Microsoft.BingWeather
+Microsoft.XboxApp
+Microsoft.SkypeApp
+Microsoft.MicrosoftSolitaireCollection
+Microsoft.ZuneMusic
+Microsoft.ZuneVideo
+Microsoft.People
+Microsoft.MicrosoftOfficeHub
+Microsoft.WindowsMaps
+microsoft.windowscommunicationsapps
+Microsoft.Getstarted
+Microsoft.Office.OneNote
+Microsoft.Messaging
+Microsoft.WindowsFeedbackHub
+Microsoft.OneConnect
+Microsoft.GetHelp
